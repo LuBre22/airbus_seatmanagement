@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><AssemblyName>SxSeatOps.Cli</AssemblyName><RootNamespace>SxSeatOps.Cli</RootNamespace></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../SxSeatOps.Core/SxSeatOps.Core.csproj" /></ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SxSeatOps.Core", "src\SxSeatOps.Core\SxSeatOps.Core.csproj", "{1D1960E2-888B-4C6C-9F9A-4C39AB1B0321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SxSeatOps.Cli", "src\SxSeatOps.Cli\SxSeatOps.Cli.csproj", "{B11EFBE8-1F1B-419A-A38C-69C6B2CC2DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SxSeatOps.Tests", "tests\SxSeatOps.Tests\SxSeatOps.Tests.csproj", "{F5DDC22E-EDC4-48B6-B0D5-E551C4CC2E42}"
+EndProject
+Global
+ GlobalSection(SolutionConfigurationPlatforms) = preSolution
+  Debug|Any CPU = Debug|Any CPU
+  Release|Any CPU = Release|Any CPU
+ EndGlobalSection
+ GlobalSection(ProjectConfigurationPlatforms) = postSolution
+  {1D1960E2-888B-4C6C-9F9A-4C39AB1B0321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+  {1D1960E2-888B-4C6C-9F9A-4C39AB1B0321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+  {1D1960E2-888B-4C6C-9F9A-4C39AB1B0321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+  {1D1960E2-888B-4C6C-9F9A-4C39AB1B0321}.Release|Any CPU.Build.0 = Release|Any CPU
+  {B11EFBE8-1F1B-419A-A38C-69C6B2CC2DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+  {B11EFBE8-1F1B-419A-A38C-69C6B2CC2DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+  {B11EFBE8-1F1B-419A-A38C-69C6B2CC2DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+  {B11EFBE8-1F1B-419A-A38C-69C6B2CC2DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+ EndGlobalSection
+EndGlobal
